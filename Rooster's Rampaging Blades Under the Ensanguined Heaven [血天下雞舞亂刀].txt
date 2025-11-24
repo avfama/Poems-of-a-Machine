@@ -9,12 +9,16 @@ Rooster's Rampaging Blades Under the Ensanguined Heaven [血天下雞舞亂刀]
   [Clash Win] Gain 10 Burn
   [After Attack] Consume all Battleblood Instinct
   [After Attack] At more than 20 Burn, consume up to 25 excess Burn.pngBurn and heal (Burn consumed x 2)% HP
+
   I. Unbreakable Coin
      [On Hit] Inflict +2 Rupture Count
+
  II. Unbreakable Coin
      [On Hit] Inflict +2 Burn Count
+
 III. Unbreakable Coin
      [On Hit] Inflict 2 Rupture
+
  IV. Unbreakable Coin
      [On Hit] Inflict 2 Burn
      [On Hit] If this unit has 20+ Burn, or if this unit has less than 50% HP, Reuse this Coin (once per Skill)
