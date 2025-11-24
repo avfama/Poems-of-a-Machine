@@ -1,5 +1,7 @@
 Rooster's Rampaging Blades Under the Ensanguined Heaven [血天下雞舞亂刀]
+
   60 (55+5) Atk Weight[][][]
+
   Unfocused Volley
   Deal +3% damage for every Burn.pngBurn on self (max 60%)
   Deal +1% damage for every 2% (missing HP percentage on target + missing HP percentage on self) (max 50%)
